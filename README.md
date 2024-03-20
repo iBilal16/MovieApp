@@ -1,4 +1,5 @@
-<img width="1043" alt="img" src="https://github.com/iBilal16/MovieApp/assets/96771112/fcdbdeea-c862-4640-909a-81dc555b502b"># Movies App
+
+<img width="1043" alt="img" src="https://github.com/iBilal16/MovieApp/assets/96771112/bdb13b6a-4447-453e-b8b8-0e7be62cfd5e">
 
 An Example iOS Application working with [The Movie DB API](https://www.themoviedb.org/documentation/api).
 This iOS application allows users to browse movies and explore details using The Movie Database (TMDb) API.
@@ -41,8 +42,9 @@ if pods doesn’t install or run try `sudo gem install cocoapods --user-install`
 
  ## Screenshots
 
-<img width="1043" alt="img" src="https://github.com/iBilal16/MovieApp/assets/96771112/040b2a3b-3b07-420b-9b2b-8ba580b881db">
-<img width="1043" alt="img1" src="https://github.com/iBilal16/MovieApp/assets/96771112/032bbfa8-4b02-467e-8162-e34db83187e7">
+<img width="1043" alt="img" src="https://github.com/iBilal16/MovieApp/assets/96771112/133bde58-2ba6-4fde-8ea6-53841280185b">
+
+<img width="1043" alt="img1" src="https://github.com/iBilal16/MovieApp/assets/96771112/ed4efc8b-a66c-4408-b167-9c0d29ea6ae6">
 
 
 
